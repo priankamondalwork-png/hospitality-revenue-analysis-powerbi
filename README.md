@@ -1,4 +1,4 @@
-ul# Hospitality Revenue Analytics Dashboard (Power BI)
+# Hospitality Revenue Analytics Dashboard (Power BI)
 
 ---
 
