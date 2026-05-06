@@ -107,13 +107,13 @@ hospitality-revenue-analysis-powerbi/
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](dashboard/Executive_Overview.png)
+![Executive Overview](images/Executive_Overview.png)
 
 ### Performance Analysis
-![Performance Analysis](dashboard/Performance_Analysis.png)
+![Performance Analysis](images/Performance_Analysis.png)
 
 ### Tooltip View
-![Tooltip](dashboard/Tooltip_revenue.png)
+![Tooltip](images/Tooltip_revenue.png)
 
 ### Mockup
 ![Mockup](images/mockup_dashboard.png)
