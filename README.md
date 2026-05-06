@@ -1,4 +1,4 @@
-# Hospitality Revenue Analytics Dashboard (Power BI)
+ul# Hospitality Revenue Analytics Dashboard (Power BI)
 
 ---
 
@@ -43,27 +43,31 @@ These datasets contain booking details, revenue, room capacity, customer ratings
 ---
 
 ## 📂 Project Structure
-hospitality-revenue-analytics-powerbi/
-┣ data/
-┃ ┣ raw/
-┃ ┃ ┣ fact_bookings.csv
-┃ ┃ ┣ fact_aggregated_bookings.csv
-┃ ┃ ┣ dim_date.csv
-┃ ┃ ┣ dim_hotels.csv
-┃ ┃ ┗ dim_rooms.csv
-┃ ┣ metadata_hospitality.txt
-┃ ┗ metrics_list.xlsx
-┣ docs/
-┃ ┣ problem_statement.pdf
-┃ ┗ powerbi_dive_guide.pdf
-┣ dashboard/
-┃ ┣ hotel_dashboard.pbit
-┃ ┣ Executive_Overview.png
-┃ ┣ Performance_Analysis.png
-┃ ┗ Tooltip_revenue.png
-┣ images/
-┃ ┗ mockup_dashboard.png
-┗ README.md
+## 📂 Project Structure
+
+```
+hospitality-revenue-analysis-powerbi/
+ ┣ data/
+ ┃ ┣ raw/
+ ┃ ┃ ┣ fact_bookings.csv
+ ┃ ┃ ┣ fact_aggregated_bookings.csv
+ ┃ ┃ ┣ dim_date.csv
+ ┃ ┃ ┣ dim_hotels.csv
+ ┃ ┃ ┗ dim_rooms.csv
+ ┃ ┣ metadata_hospitality.txt
+ ┃ ┗ metrics_list.xlsx
+ ┣ docs/
+ ┃ ┣ problem_statement.pdf
+ ┃ ┗ powerbi_dive_guide.pdf
+ ┣ dashboard/
+ ┃ ┗ hotel_dashboard.pbit
+ ┣ images/
+ ┃ ┣ Executive_Overview.png
+ ┃ ┣ Performance_Analysis.png
+ ┃ ┣ Tooltip_revenue.png
+ ┃ ┗ mockup_dashboard.png
+ ┗ README.md
+```
 
 ---
 
